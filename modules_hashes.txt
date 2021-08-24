@@ -1,0 +1,4 @@
+You can write different things here, since the hash is searched throughout the file (hash in text)
+Used SHA-256
+
+c3a0b2b82681f01b2aaacca1a90da26849985cbb576487faca959d01f777742f - test.py from https://github.com/john-phonk/john-phonk/blob/main/test.py
